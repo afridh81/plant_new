@@ -1,1 +1,0 @@
-web:gunicorn plant_disease_project.wsgi.application
